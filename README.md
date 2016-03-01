@@ -1,5 +1,4 @@
-# services
-Мои сервисы
+# Мои сервисы
 
 ## Онлайн-банк
 
@@ -11,8 +10,14 @@
 ## УК
 
 [Жилфонд](http://krasguk.ru/)
-[Сибирьсервис](uksibservis.ru)
+[Сибирьсервис](http://www.uksibservis.ru)
 
 ## Онлайн-магазины
 
 [Ситилинк](http://www.citilink.ru/)
+
+
+## Услуги связи
+
+Провайдер: [Мульти-нет](https://my.multi-net.ru) 
+Сотовая связь: [МТС](https://ihelper.sib.mts.ru/selfcare/)
