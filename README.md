@@ -27,3 +27,9 @@
 
 [Проверка штрафов ГИБДД](http://www.gibdd.ru/check/fines/) 
 
+## Госслужбы
+
+[Налоговая инспеция](https://lk2.service.nalog.ru/lk/index.html)
+
+
+
