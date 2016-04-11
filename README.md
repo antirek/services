@@ -32,4 +32,8 @@
 [Налоговая инспеция](https://lk2.service.nalog.ru/lk/index.html)
 
 
+## Хостинг 
 
+[vdsina.ru](https://vdsina.ru/)
+
+[2domains.ru](https://2domains.ru/)
