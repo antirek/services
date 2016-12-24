@@ -17,6 +17,8 @@
 
 [Сибирьсервис](http://www.uksibservis.ru)
 
+[Красноярск Энергосбыт](http://old.krsk-sbit.ru/quasar.php)
+
 
 ## Онлайн-магазины
 
