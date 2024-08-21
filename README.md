@@ -13,12 +13,17 @@
 
 ## УК
 
-[Жилфонд](http://krasguk.ru/)
-
 [Сибирьсервис](http://www.uksibservis.ru)
 
-[Красноярск Энергосбыт](http://old.krsk-sbit.ru/quasar.php)
+[УК ЖСК](https://ukzhsk.ru/)
 
+[Фонд капремонт](https://lk24.rfkr.ru/)
+
+[СГК](https://krk-online.sibgenco.ru/)
+
+[Красноярск Энергосбыт](http://krsk-sbit.ru/)
+
+[Вывоз мусора РОСТТех](https://rosttech.online/)
 
 ## Онлайн-магазины
 
