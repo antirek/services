@@ -17,7 +17,7 @@
 
 [УК ЖСК](https://ukzhsk.ru/)
 
-[Фонд капремонт](https://lk24.rfkr.ru/)
+[Фонд капремонт](https://lk24.rfkr.ru/) [2](https://lk024.eisgkh.ru)
 
 [СГК](https://krk-online.sibgenco.ru/)
 
